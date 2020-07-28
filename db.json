@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "fullname": "Viknesh",
+      "email": "smileyviknes007@gmail.com",
+      "mob": "9524464560",
+      "gender": "male",
+      "contact": "mobile",
+      "isactive": "true",
+      "department": "CSE",
+      "date": "29/05/2000",
+      "photo": "../assets/images/photo.jpg"
+    },
+    {
+      "id": 2,
+      "fullname": "Arafath",
+      "email": "arafath05@gmail.com",
+      "mob": "1651468546",
+      "gender": "male",
+      "contact": "mobile",
+      "isactive": "true",
+      "department": "IT",
+      "date": "29/03/2000",
+      "photo": "../assets/images/raspi.png"
+    },
+    {
+      "id": 3,
+      "fullname": "Jainul Afrith",
+      "email": "jainafrith29@gmail.com",
+      "mob": "16484964684",
+      "gender": "male",
+      "contact": "mobile",
+      "isactive": "true",
+      "department": "MECH",
+      "date": "29/02/2000",
+      "photo": "../assets/images/rasp1.png"
+    },
+    {
+      "id": 4,
+      "fullname": "apitestdata",
+      "email": "api002@gmail.com",
+      "mob": 2313561,
+      "gender": "male",
+      "contact": "mobile",
+      "isactive": "true",
+      "department": "Select Department",
+      "date": null,
+      "photo": null
+    },
+    {
+      "id": 5,
+      "fullname": "ponram",
+      "email": "ponram2503@gmail.com",
+      "mob": 24556968,
+      "gender": "male",
+      "contact": "email",
+      "isactive": "true",
+      "department": "CSE",
+      "date": "2020-08-13",
+      "photo": null
+    }
+  ]
+}
